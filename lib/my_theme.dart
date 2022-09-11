@@ -16,6 +16,7 @@ class MyThemeData {
           iconTheme: IconThemeData(
             color: blackColor,
           )),
+      iconTheme: IconThemeData(color: Colors.black, size: 25),
       textTheme: TextTheme(
         headline1: TextStyle(
           fontSize: 30,
@@ -50,6 +51,7 @@ class MyThemeData {
           iconTheme: IconThemeData(
             color: whiteColor,
           )),
+      iconTheme: IconThemeData(color: Colors.white, size: 25),
       textTheme: TextTheme(
         headline1: TextStyle(
           fontSize: 30,
